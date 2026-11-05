@@ -1,0 +1,11 @@
+2026-11-05 22:44:16,688 [INFO] Organizing files from c:\Users\DELL\Downloads\pyq_collection_2000_2026_starter\pyq_archive_2000_2026...
+2026-11-05 22:44:16,690 [INFO] Organization complete. Moved 0 files.
+2026-11-05 22:44:16,690 [INFO] Building master index...
+2026-11-05 22:44:27,937 [INFO] [OK] Master index built: 1802 files, 2301 MB
+2026-11-05 22:44:27,937 [INFO] Index saved: c:\Users\DELL\Downloads\pyq_collection_2000_2026_starter\_Index\master_index.json
+2026-11-05 22:44:27,972 [INFO] Report saved: c:\Users\DELL\Downloads\pyq_collection_2000_2026_starter\_Index\COLLECTION_REPORT.txt
+2026-11-05 22:44:27,974 [INFO] Verifying PDF integrity...
+2026-11-05 22:44:28,466 [WARNING] Invalid/corrupted PDF: c:\Users\DELL\Downloads\pyq_collection_2000_2026_starter\JEE\JEE_Advanced\Paper_1\JEE_Advanced_2017_Paper1_english.pdf
+2026-11-05 22:44:28,685 [WARNING] Invalid/corrupted PDF: c:\Users\DELL\Downloads\pyq_collection_2000_2026_starter\UPSC\Civil_Services\Prelims\General_Studies_Paper_1\UPSC_2026_AssttPublProseGNCTD-Notice-Engl-170926Rev.pdf
+2026-11-05 22:44:28,685 [WARNING] Invalid/corrupted PDF: c:\Users\DELL\Downloads\pyq_collection_2000_2026_starter\UPSC\Civil_Services\Prelims\General_Studies_Paper_1\UPSC_unknown_Common_Mistake_OMR_SAL.pdf
+2026-11-05 22:44:28,723 [INFO] Invalid PDF list saved: c:\Users\DELL\Downloads\pyq_collection_2000_2026_starter\_Index\invalid_pdfs.txt

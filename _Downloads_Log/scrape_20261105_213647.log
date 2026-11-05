@@ -1,0 +1,126 @@
+2026-11-05 21:36:47,147 [INFO] 
+============================================================
+Running scraper: cbse_official
+============================================================
+2026-11-05 21:36:47,147 [INFO] Scraping CBSE Official (cbseacademic.nic.in)...
+2026-11-05 21:36:47,457 [WARNING] Attempt 1/3 failed for https://cbseacademic.nic.in/question-paper.html: 404 Client Error: Not Found for url: https://cbseacademic.nic.in/question-paper.html
+2026-11-05 21:36:48,623 [WARNING] Attempt 2/3 failed for https://cbseacademic.nic.in/question-paper.html: 404 Client Error: Not Found for url: https://cbseacademic.nic.in/question-paper.html
+2026-11-05 21:36:50,807 [WARNING] Attempt 3/3 failed for https://cbseacademic.nic.in/question-paper.html: 404 Client Error: Not Found for url: https://cbseacademic.nic.in/question-paper.html
+2026-11-05 21:36:54,808 [ERROR] Could not reach CBSE academic portal
+2026-11-05 21:36:54,808 [INFO] 
+============================================================
+Running scraper: nta_official
+============================================================
+2026-11-05 21:36:54,808 [INFO] Scraping NTA Official (nta.ac.in)...
+2026-11-05 21:36:54,808 [INFO] Checking JEE_Mains at https://jeemain.nta.nic.in/webinfo2024/Page/Page?PageId=2&LangId=P
+2026-11-05 21:36:56,686 [WARNING] Attempt 1/3 failed for https://jeemain.nta.nic.in/webinfo2024/Page/Page?PageId=2&LangId=P: 404 Client Error: Not Found for url: https://jeemain.nta.nic.in/webinfo2024/Page/Page?PageId=2&LangId=P
+2026-11-05 21:36:57,801 [WARNING] Attempt 2/3 failed for https://jeemain.nta.nic.in/webinfo2024/Page/Page?PageId=2&LangId=P: 404 Client Error: Not Found for url: https://jeemain.nta.nic.in/webinfo2024/Page/Page?PageId=2&LangId=P
+2026-11-05 21:36:59,907 [WARNING] Attempt 3/3 failed for https://jeemain.nta.nic.in/webinfo2024/Page/Page?PageId=2&LangId=P: 404 Client Error: Not Found for url: https://jeemain.nta.nic.in/webinfo2024/Page/Page?PageId=2&LangId=P
+2026-11-05 21:37:03,908 [INFO] Checking NEET at https://neet.nta.nic.in/webinfo2024/Page/Page?PageId=2&LangId=P
+2026-11-05 21:37:06,326 [WARNING] Attempt 1/3 failed for https://neet.nta.nic.in/webinfo2024/Page/Page?PageId=2&LangId=P: 404 Client Error: Not Found for url: https://neet.nta.nic.in/webinfo2024/Page/Page?PageId=2&LangId=P
+2026-11-05 21:37:07,495 [WARNING] Attempt 2/3 failed for https://neet.nta.nic.in/webinfo2024/Page/Page?PageId=2&LangId=P: 404 Client Error: Not Found for url: https://neet.nta.nic.in/webinfo2024/Page/Page?PageId=2&LangId=P
+2026-11-05 21:37:09,605 [WARNING] Attempt 3/3 failed for https://neet.nta.nic.in/webinfo2024/Page/Page?PageId=2&LangId=P: 404 Client Error: Not Found for url: https://neet.nta.nic.in/webinfo2024/Page/Page?PageId=2&LangId=P
+2026-11-05 21:37:13,607 [INFO] Checking NET_JRF at https://ugcnet.nta.nic.in/WebInfo/Page/Page?PageId=1&LangId=P
+2026-11-05 21:37:15,476 [WARNING] Attempt 1/3 failed for https://ugcnet.nta.nic.in/WebInfo/Page/Page?PageId=1&LangId=P: 404 Client Error: Not Found for url: https://ugcnet.nta.nic.in/WebInfo/Page/Page?PageId=1&LangId=P
+2026-11-05 21:37:18,286 [WARNING] Attempt 2/3 failed for https://ugcnet.nta.nic.in/WebInfo/Page/Page?PageId=1&LangId=P: 404 Client Error: Not Found for url: https://ugcnet.nta.nic.in/WebInfo/Page/Page?PageId=1&LangId=P
+2026-11-05 21:37:21,894 [WARNING] Attempt 3/3 failed for https://ugcnet.nta.nic.in/WebInfo/Page/Page?PageId=1&LangId=P: 404 Client Error: Not Found for url: https://ugcnet.nta.nic.in/WebInfo/Page/Page?PageId=1&LangId=P
+2026-11-05 21:37:25,895 [INFO] Checking CTET at https://ctet.nic.in/webcontents/
+2026-11-05 21:37:27,118 [WARNING] Attempt 1/3 failed for https://ctet.nic.in/webcontents/: 404 Client Error: Not Found for url: https://ctet.nic.in/webcontents/
+2026-11-05 21:37:29,125 [WARNING] Attempt 2/3 failed for https://ctet.nic.in/webcontents/: 404 Client Error: Not Found for url: https://ctet.nic.in/webcontents/
+2026-11-05 21:37:31,931 [WARNING] Attempt 3/3 failed for https://ctet.nic.in/webcontents/: 404 Client Error: Not Found for url: https://ctet.nic.in/webcontents/
+2026-11-05 21:37:35,932 [INFO] 
+============================================================
+Running scraper: upsc_official
+============================================================
+2026-11-05 21:37:35,932 [INFO] Scraping UPSC Official (upsc.gov.in)...
+2026-11-05 21:37:36,977 [INFO]   Downloading: common mistakes done while filling omr sheet/scannable attendance list
+2026-11-05 21:37:37,172 [WARNING]   Not a valid PDF: https://upsc.gov.in/sites/default/files/Common_Mistake_OMR_SAL.pdf
+2026-11-05 21:37:37,673 [INFO]   Downloading: clarification for the post of assistant public prosecutor in delhi, vide advt. no. 11 - 2026
+2026-11-05 21:37:37,958 [WARNING]   Not a valid PDF: https://upsc.gov.in/sites/default/files/AssttPublProseGNCTD-Notice-Engl-170926Rev.pdf
+2026-11-05 21:37:38,460 [INFO] 
+============================================================
+Running scraper: icai_official
+============================================================
+2026-11-05 21:37:38,460 [INFO] Scraping ICAI Official (icai.org)...
+2026-11-05 21:37:38,461 [INFO] Scraping CA_Foundation...
+2026-11-05 21:37:39,773 [INFO]   Downloading: July, 2021
+2026-11-05 21:37:41,046 [INFO]   SKIP (exists): CA_Foundation_PaperX_2021_Unknown.pdf
+2026-11-05 21:37:41,348 [INFO]   Downloading: November, 2020
+2026-11-05 21:37:42,160 [INFO]   Downloading: November, 2019
+2026-11-05 21:37:43,152 [INFO]   Downloading: May 2019
+2026-11-05 21:37:44,060 [INFO]   Downloading: November 2018
+2026-11-05 21:37:44,996 [INFO]   Downloading: May 2018
+2026-11-05 21:37:46,195 [INFO]   Downloading: November 2017
+2026-11-05 21:37:47,221 [INFO]   Downloading: May 2017
+2026-11-05 21:37:48,206 [INFO]   Downloading: November 2016
+2026-11-05 21:37:49,011 [INFO]   Downloading: May 2016
+2026-11-05 21:37:49,707 [INFO]   Downloading: November 2015
+2026-11-05 21:37:50,388 [INFO]   Downloading: May 2015
+2026-11-05 21:37:51,115 [INFO]   Downloading: November 2014
+2026-11-05 21:37:51,663 [INFO]   Downloading: May 2014
+2026-11-05 21:37:52,277 [INFO]   Downloading: November 2013
+2026-11-05 21:37:52,981 [INFO]   Downloading: May 2013
+2026-11-05 21:37:53,564 [INFO]   Downloading: November 2012
+2026-11-05 21:37:54,446 [INFO]   Downloading: May 2012
+2026-11-05 21:37:55,493 [INFO]   Downloading: November 2011
+2026-11-05 21:37:56,286 [INFO]   Downloading: May 2011
+2026-11-05 21:37:57,087 [INFO]   Downloading: November 2010
+2026-11-05 21:37:57,865 [INFO]   Downloading: May 2010
+2026-11-05 21:37:58,580 [INFO] Scraping CA_Intermediate...
+2026-11-05 21:37:59,103 [INFO]   Downloading: July, 2021
+2026-11-05 21:38:00,105 [INFO]   SKIP (exists): CA_Intermediate_PaperX_2021_Unknown.pdf
+2026-11-05 21:38:00,405 [INFO]   Downloading: November, 2020
+2026-11-05 21:38:00,978 [INFO]   Downloading: November, 2019
+2026-11-05 21:38:01,789 [INFO]   Downloading: May 2019
+2026-11-05 21:38:02,654 [INFO]   Downloading: November 2018
+2026-11-05 21:38:03,394 [INFO]   Downloading: May 2018
+2026-11-05 21:38:04,324 [INFO]   Downloading: November 2017
+2026-11-05 21:38:05,255 [INFO]   Downloading: May 2017
+2026-11-05 21:38:06,398 [INFO]   Downloading: November 2016
+2026-11-05 21:38:07,279 [INFO]   Downloading: May 2016
+2026-11-05 21:38:07,786 [INFO]   Downloading: November 2015
+2026-11-05 21:38:08,222 [INFO]   Downloading: May 2015
+2026-11-05 21:38:08,675 [INFO]   Downloading: November 2014
+2026-11-05 21:38:09,178 [INFO]   Downloading: May 2014
+2026-11-05 21:38:09,553 [INFO]   Downloading: November 2013
+2026-11-05 21:38:10,106 [INFO]   Downloading: May 2013
+2026-11-05 21:38:10,591 [INFO]   Downloading: November 2012
+2026-11-05 21:38:11,356 [INFO]   Downloading: May 2012
+2026-11-05 21:38:12,244 [INFO]   Downloading: November 2011
+2026-11-05 21:38:12,925 [INFO]   Downloading: May 2011
+2026-11-05 21:38:13,597 [INFO]   Downloading: November 2010
+2026-11-05 21:38:14,474 [INFO]   Downloading: May 2010
+2026-11-05 21:38:15,141 [INFO] Scraping CA_Final...
+2026-11-05 21:38:15,638 [INFO]   Downloading: July, 2021
+2026-11-05 21:38:16,186 [INFO]   SKIP (exists): CA_Final_PaperX_2021_Unknown.pdf
+2026-11-05 21:38:16,487 [INFO]   Downloading: November, 2020
+2026-11-05 21:38:17,007 [INFO]   Downloading: November, 2019
+2026-11-05 21:38:17,771 [INFO]   Downloading: May 2019
+2026-11-05 21:38:18,356 [INFO]   Downloading: November 2018
+2026-11-05 21:38:19,042 [INFO]   Downloading: May 2018
+2026-11-05 21:38:19,829 [INFO]   Downloading: November 2017
+2026-11-05 21:38:20,675 [INFO]   Downloading: May 2017
+2026-11-05 21:38:21,408 [INFO]   Downloading: November 2016
+2026-11-05 21:38:22,005 [INFO]   Downloading: May 2016
+2026-11-05 21:38:22,550 [INFO]   Downloading: November 2015
+2026-11-05 21:38:23,065 [INFO]   Downloading: May 2015
+2026-11-05 21:38:23,589 [INFO]   Downloading: November 2014
+2026-11-05 21:38:23,976 [INFO]   Downloading: May 2014
+2026-11-05 21:38:24,349 [INFO]   Downloading: November 2013
+2026-11-05 21:38:24,766 [INFO]   Downloading: May 2013
+2026-11-05 21:38:25,164 [INFO]   Downloading: November 2012
+2026-11-05 21:38:25,847 [INFO]   Downloading: May 2012
+2026-11-05 21:38:26,657 [INFO]   Downloading: November 2011
+2026-11-05 21:38:27,239 [INFO]   Downloading: May 2011
+2026-11-05 21:38:27,832 [INFO]   Downloading: November 2010
+2026-11-05 21:38:28,471 [INFO]   Downloading: May 2010
+2026-11-05 21:38:29,058 [INFO] 
+============================================================
+Running scraper: ssc_official
+============================================================
+2026-11-05 21:38:29,058 [INFO] Scraping SSC Official (ssc.nic.in)...
+2026-11-05 21:38:50,218 [WARNING] Attempt 1/3 failed for https://ssc.nic.in/Portal/QuestionPapers: HTTPSConnectionPool(host='ssc.nic.in', port=443): Max retries exceeded with url: /Portal/QuestionPapers (Caused by ConnectTimeoutError(<HTTPSConnection(host='ssc.nic.in', port=443) at 0x247d0713310>, 'Connection to ssc.nic.in timed out. (connect timeout=30)'))
+2026-11-05 21:39:12,336 [WARNING] Attempt 2/3 failed for https://ssc.nic.in/Portal/QuestionPapers: HTTPSConnectionPool(host='ssc.nic.in', port=443): Max retries exceeded with url: /Portal/QuestionPapers (Caused by ConnectTimeoutError(<HTTPSConnection(host='ssc.nic.in', port=443) at 0x247d0715fd0>, 'Connection to ssc.nic.in timed out. (connect timeout=30)'))
+2026-11-05 21:39:35,415 [WARNING] Attempt 3/3 failed for https://ssc.nic.in/Portal/QuestionPapers: HTTPSConnectionPool(host='ssc.nic.in', port=443): Max retries exceeded with url: /Portal/QuestionPapers (Caused by ConnectTimeoutError(<HTTPSConnection(host='ssc.nic.in', port=443) at 0x247d0717010>, 'Connection to ssc.nic.in timed out. (connect timeout=30)'))
+2026-11-05 21:39:39,423 [INFO] Scrape manifest saved: c:\Users\DELL\Downloads\pyq_collection_2000_2026_starter\_Index\scrape_manifest.json
+2026-11-05 21:39:39,423 [INFO] Total files downloaded: 66

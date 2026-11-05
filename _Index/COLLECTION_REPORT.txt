@@ -1,0 +1,102 @@
+======================================================================
+PYQ COLLECTION - SUMMARY REPORT
+Generated: 2026-11-05 22:44:27
+======================================================================
+
+Total Files: 1802
+Total Size:  2301.42 MB
+Base Dir:    c:\Users\DELL\Downloads\pyq_collection_2000_2026_starter
+
+──────────────────────────────────────────────────────────────────────
+EXAM-WISE BREAKDOWN
+──────────────────────────────────────────────────────────────────────
+
+📁 Banking
+   Full Name: Banking Sector Examinations
+   Files: 0 | Years: N/A
+
+📁 CA
+   Full Name: Chartered Accountancy Examinations
+   Files: 66 | Years: 2010-2021
+
+📁 CBSE_Class_10
+   Full Name: CBSE Class 10 Board Examination
+   Files: 642 | Years: 2021-2024
+
+📁 CBSE_Class_12
+   Full Name: CBSE Class 12 Board Examination
+   Files: 830 | Years: 2021-2026
+
+📁 Defence
+   Full Name: Defence
+   Files: 6 | Years: N/A
+
+📁 Engineering_Entrance
+   Full Name: Engineering_Entrance
+   Files: 0 | Years: N/A
+
+📁 Insurance
+   Full Name: Insurance
+   Files: 0 | Years: N/A
+
+📁 JEE
+   Full Name: Joint Entrance Examination
+   Files: 107 | Years: 2007-2026
+
+📁 Law_Entrance
+   Full Name: Law_Entrance
+   Files: 0 | Years: N/A
+
+📁 Management_Entrance
+   Full Name: Management Entrance Examinations
+   Files: 0 | Years: N/A
+
+📁 Medical_Entrance
+   Full Name: Medical_Entrance
+   Files: 0 | Years: N/A
+
+📁 NDA
+   Full Name: National Defence Academy Examination
+   Files: 4 | Years: N/A
+
+📁 NEET
+   Full Name: National Eligibility cum Entrance Test
+   Files: 5 | Years: 2022-2026
+
+📁 Other_Central_Govt
+   Full Name: Other_Central_Govt
+   Files: 0 | Years: N/A
+
+📁 Railways
+   Full Name: Railway Recruitment Board Examinations
+   Files: 0 | Years: N/A
+
+📁 SSC
+   Full Name: Staff Selection Commission Examinations
+   Files: 0 | Years: N/A
+
+📁 State_PSC
+   Full Name: State Public Service Commission Examinations
+   Files: 0 | Years: N/A
+
+📁 Teaching_Exams
+   Full Name: Teaching Eligibility and Recruitment Examinations
+   Files: 0 | Years: N/A
+
+📁 UPSC
+   Full Name: Union Public Service Commission Examinations
+   Files: 142 | Years: 2026-2062
+
+──────────────────────────────────────────────────────────────────────
+SOURCES USED
+──────────────────────────────────────────────────────────────────────
+• CBSE: cbseacademic.nic.in, cbse.gov.in
+• JEE: jeemain.nta.nic.in, jeeadv.ac.in
+• NEET: nta.ac.in, neet.nta.nic.in
+• UPSC: upsc.gov.in
+• CA: icai.org
+• SSC: ssc.nic.in
+• NDA: upsc.gov.in
+• Railways: rrbcdg.gov.in, indianrailways.gov.in
+
+======================================================================

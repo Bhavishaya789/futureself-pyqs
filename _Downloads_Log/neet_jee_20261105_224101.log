@@ -1,0 +1,16 @@
+2026-11-05 22:41:01,474 [INFO] Starting NEET and JEE Mains direct downloads...
+2026-11-05 22:41:01,475 [INFO] Downloading 5 NEET Question Papers...
+2026-11-05 22:41:04,931 [WARNING] [1/5] NEET FAILED: NEET-2022-Question-Paper.pdf
+2026-11-05 22:41:08,671 [WARNING] [2/5] NEET FAILED: NEET-2023-Question-Paper.pdf
+2026-11-05 22:41:12,178 [WARNING] [3/5] NEET FAILED: NEET-2024-Question-Paper.pdf
+2026-11-05 22:41:15,675 [WARNING] [4/5] NEET FAILED: NEET-2025-Question-Paper.pdf
+2026-11-05 22:41:19,186 [WARNING] [5/5] NEET FAILED: NEET-2026-Question-Paper-Code-11.pdf
+2026-11-05 22:41:19,489 [INFO] Downloading 45 JEE Mains Question Papers & Shift Keys...
+2026-11-05 22:41:23,335 [WARNING] [1/45] JEE Main FAILED: JEE-Main-2022-Question-Paper.pdf
+2026-11-05 22:41:26,824 [WARNING] [2/45] JEE Main FAILED: JEE-Main-2023-Question-Paper.pdf
+2026-11-05 22:41:30,335 [WARNING] [3/45] JEE Main FAILED: JEE-Main-2024-Answer-Key-Session-1.pdf
+2026-11-05 22:41:34,297 [WARNING] [4/45] JEE Main FAILED: JEE-Main-2024-Answer-Key-Session-2.pdf
+2026-11-05 22:41:37,820 [WARNING] [5/45] JEE Main FAILED: JEE-Main-2024-Question-Paper-B.Arch-B.Planning-12-Apr-Shift-1.pdf
+2026-11-05 22:41:41,684 [WARNING] [6/45] JEE Main FAILED: JEE-Main-2024-Question-Paper-B.Arch-12-Apr-Shift-1.pdf
+2026-11-05 22:41:45,283 [WARNING] [7/45] JEE Main FAILED: JEE-Main-2024-Question-Paper-B.Planning-12-Apr-Shift-1.pdf
+2026-11-05 22:41:48,774 [WARNING] [8/45] JEE Main FAILED: JEE-Main-2024-Question-Paper-B.Tech-4-Apr-Shift-1.pdf
